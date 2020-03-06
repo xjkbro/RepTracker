@@ -1,19 +1,8 @@
-# Fitness Tracker App
-
-MERN Stack test app by creating a fitness tracker app.
-More practice with Express and Node.js
-
-
-
-Special thanks to :
-Brad Traversy for the mern stack series.
-
-
-# FitTicker
+# RepTracker
 
 MERN Stack application to track and manage workouts.
 
-[FitTicker]()
+[RepTracker]()
 
 ## Getting Started
 
