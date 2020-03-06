@@ -2,7 +2,7 @@
 
 MERN Stack application to track and manage workouts.
 
-[RepTracker]()
+[RepTracker](https://github.com/xjkbro/RepTracker.git)
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ What things you need to install the application
 1. Clone the repo
 
 ```
-git clone '--'
+git clone https://github.com/xjkbro/RepTracker.git
 ```
 
 2. Open Project Folder
@@ -54,12 +54,12 @@ npm install                 //installs server dependancies
 
 ## Contributors
 
-* **Jason-Kyle De Lara** - *Initial work* - [jkdelara](http://www.jkdelara.com/)
+* **Jason-Kyle De Lara** - *Initial work* - http://www.jkdelara.com/
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 
